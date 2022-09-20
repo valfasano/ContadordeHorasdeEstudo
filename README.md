@@ -1,6 +1,6 @@
 # Contador de Horas de Estudos
 
-![Screenshot](contadordehorasdeestudos2.jpeg)
+![Screenshot](screenshot.jpeg)
 
 # Deploy
 https://contadordehorasdeestudos.herokuapp.com/
